@@ -1,0 +1,12 @@
+{
+    "name": "vdberg/php_bootcamp",
+    "description": "Tracking expenses",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
